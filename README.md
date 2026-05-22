@@ -1,5 +1,7 @@
 # CYBER RELIC ARCADE
 
+## *PLEASE DOWNLOAD THE V6 FILE COMPLETELY*
+
 ## Project Overview
 
 **Cyber Relic Arcade** is a synthwave-styled arcade game built entirely in Java using Swing and AWT. The game combines classic catcher mechanics with modern roguelike elements, featuring combo multipliers, boss battles, power-ups, and a persistent user progression system with coins and a shop.
